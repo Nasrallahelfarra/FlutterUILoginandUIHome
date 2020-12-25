@@ -1,5 +1,5 @@
 # Flutter_UILogin_UIHomeFlutter
 <p float="left">
-<img src="image/1.PNG" width="800" height="600"/>
+<img src="image/1.PNG" width="600" height="400"/>
 </p>
 
