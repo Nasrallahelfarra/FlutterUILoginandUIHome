@@ -1,0 +1,21 @@
+<svg id="status_line" xmlns="http://www.w3.org/2000/svg" width="289" height="36" viewBox="0 0 289 36">
+  <rect id="Rectangle_66" data-name="Rectangle 66" width="270" height="2" transform="translate(12 18)" fill="#ececec"/>
+  <rect id="Rectangle_71" data-name="Rectangle 71" width="265" height="2" transform="translate(17 18)" fill="#4349b5"/>
+  <g id="Rectangle_65" data-name="Rectangle 65" transform="translate(278 14)" fill="#4349b5" stroke="#fff" stroke-width="2">
+    <rect width="9" height="9" rx="4.5" stroke="none"/>
+    <rect x="-1" y="-1" width="11" height="11" rx="5.5" fill="none"/>
+  </g>
+  <g id="Rectangle_72" data-name="Rectangle 72" transform="translate(188 14)" fill="#4349b5" stroke="#fff" stroke-width="2">
+    <rect width="9" height="9" rx="4.5" stroke="none"/>
+    <rect x="-1" y="-1" width="11" height="11" rx="5.5" fill="none"/>
+  </g>
+  <g id="Rectangle_74" data-name="Rectangle 74" transform="translate(97 14)" fill="#4349b5" stroke="#fff" stroke-width="2">
+    <rect width="9" height="9" rx="4.5" stroke="none"/>
+    <rect x="-1" y="-1" width="11" height="11" rx="5.5" fill="none"/>
+  </g>
+  <rect id="Rectangle_75" data-name="Rectangle 75" width="36" height="36" rx="18" fill="#4349b5" opacity="0.1"/>
+  <rect id="Rectangle_73" data-name="Rectangle 73" width="30" height="30" rx="15" transform="translate(3 3)" fill="#4349b5"/>
+  <g id="mdi_stars" transform="translate(9.598 9.667)">
+    <path id="Vector" d="M8.342,0A8.333,8.333,0,1,1,0,8.333,8.329,8.329,0,0,1,8.342,0ZM4.808,13.333l3.525-2.125,3.525,2.125-.933-4.008,3.108-2.692-4.1-.35L8.333,2.5l-1.6,3.775-4.1.35L5.742,9.317Z" fill="#fff"/>
+  </g>
+</svg>

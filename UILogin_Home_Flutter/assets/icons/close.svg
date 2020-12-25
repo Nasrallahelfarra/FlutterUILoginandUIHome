@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.525" height="20.525" viewBox="0 0 20.525 20.525">
+  <g id="Button" transform="translate(-1 -2)">
+    <rect id="Mask" width="20.525" height="20.525" rx="10.262" transform="translate(1 2)" fill="#ff4267"/>
+    <path id="Mask-2" data-name="Mask" d="M5.03.838V5.03H.838a.838.838,0,1,0,0,1.677H5.03V10.9a.838.838,0,1,0,1.677,0V6.707H10.9a.838.838,0,1,0,0-1.677H6.707V.838a.838.838,0,0,0-1.677,0Z" transform="translate(19.562 12.556) rotate(135)" fill="#fff"/>
+  </g>
+</svg>
